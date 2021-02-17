@@ -92,4 +92,4 @@ async def inv(ctx, a:int):
     # smtp.quit()
 
 
-bot.run('NzgyNTk1NDc0ODc1MjIwMDE4.X8Oe1Q.t12UWhJNaico6VFizzBRV9GRHE4')
+bot.run('token')

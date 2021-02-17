@@ -1,0 +1,10 @@
+C:\Users\razvy\OneDrive\Desktop\DB\aplicatiedb\ManageShopOnlineDB\obj\Debug\ManageShopOnlineDB.csprojAssemblyReference.cache
+C:\Users\razvy\OneDrive\Desktop\DB\aplicatiedb\ManageShopOnlineDB\obj\Debug\ManageShopOnlineDB.Form1.resources
+C:\Users\razvy\OneDrive\Desktop\DB\aplicatiedb\ManageShopOnlineDB\obj\Debug\ManageShopOnlineDB.Properties.Resources.resources
+C:\Users\razvy\OneDrive\Desktop\DB\aplicatiedb\ManageShopOnlineDB\obj\Debug\ManageShopOnlineDB.csproj.GenerateResource.cache
+C:\Users\razvy\OneDrive\Desktop\DB\aplicatiedb\ManageShopOnlineDB\obj\Debug\ManageShopOnlineDB.csproj.CoreCompileInputs.cache
+C:\Users\razvy\OneDrive\Desktop\DB\aplicatiedb\ManageShopOnlineDB\bin\Debug\ManageShopOnlineDB.exe.config
+C:\Users\razvy\OneDrive\Desktop\DB\aplicatiedb\ManageShopOnlineDB\bin\Debug\ManageShopOnlineDB.exe
+C:\Users\razvy\OneDrive\Desktop\DB\aplicatiedb\ManageShopOnlineDB\bin\Debug\ManageShopOnlineDB.pdb
+C:\Users\razvy\OneDrive\Desktop\DB\aplicatiedb\ManageShopOnlineDB\obj\Debug\ManageShopOnlineDB.exe
+C:\Users\razvy\OneDrive\Desktop\DB\aplicatiedb\ManageShopOnlineDB\obj\Debug\ManageShopOnlineDB.pdb
